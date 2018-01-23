@@ -29,7 +29,8 @@ namespace ConsoleApp5
             Console.WriteLine(contOut + " out");
 
             Console.Write("Seja Feliz!!!");
-            Console.WriteLine("000111000123010");
+            Console.WriteLine(":D");
+
             Console.ReadLine();
         }
     }
